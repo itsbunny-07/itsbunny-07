@@ -19,7 +19,7 @@ Right now, my energy is directed towards:
 
 ### 🎯 Future Goals
 I'm on the path to earn industry-standard certifications to solidify my skills:
-- **Certifications Pursuing**: OSCP, CompTIA Pentest+, CISSP
+- **Certifications Pursuing**: OSCP, CompTIA Pentest+, CEH....
 
 ---
 
